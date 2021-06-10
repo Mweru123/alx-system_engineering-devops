@@ -1,0 +1,1 @@
+0 current directory is a script file
